@@ -1,7 +1,7 @@
 # Password-Generator-CLI
 A command line password generator in python.
 
-*Prerequisites: Python3, git.*
+*Prerequisites: Python3.*
 
 To clone and run on your machine,open your terminal:
 ```sh
